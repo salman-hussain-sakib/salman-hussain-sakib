@@ -1,16 +1,76 @@
-## Hi there 👋
+![Modern technology](https://github.com/user-attachments/assets/87d0498d-aebc-48a4-9c5a-e8f1e9212aa7)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello+There!+👋;I'm+Salman+Hussain+Sakib;Frontend+Developer;React+Learner" />
+</p>
 
-<!--
-**salman-hussain-sakib/salman-hussain-sakib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="center">
+Frontend Developer 👨‍💻 | JavaScript & React Learner | Focused on Clean & Responsive UI
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Building modern web applications and improving every day 🚀
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/salmanhussainsakib/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/>
+  </a>&nbsp;
+  <a href="mailto:sakibsalmanh@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="20"/>
+  </a>&nbsp;
+  <a href="https://twitter.com/https://x.com/sakibsalmanh" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" width="20"/>
+  </a>
+</p>
+
+
+
+
+
+
+
+
+   
+
+
+#  About Me :
+
+<img align="right" src="https://private-user-images.githubusercontent.com/195790908/575385637-8a95f351-5411-42ac-901e-d69f99148638.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzU2NjQzODgsIm5iZiI6MTc3NTY2NDA4OCwicGF0aCI6Ii8xOTU3OTA5MDgvNTc1Mzg1NjM3LThhOTVmMzUxLTU0MTEtNDJhYy05MDFlLWQ2OWY5OTE0ODYzOC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNDA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDQwOFQxNjAxMjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01ODM4ZmJmZTgyMTRhZWIwMjkwOTM4MWI5M2YwOTc4NTNlOGJlZGY1ZDAwNDhmMzg3MDYzMzlkMTYzYzllZGQ3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Zy9kWrVb5Ub5nlFx_cQWTKom69xP8nxZhSFjk6gX9oM" width="250"/>
+
+
+- 🔭 I’m currently working with JS, React  
+- 🌱 Learning React deeper  
+- 📩 Reach me: sakibsalmanh@gmail.com
+-  🎯 Improving problem-solving skills through real-world projects
+
+#  My Focus :
+
+- 💻 Modern web apps  
+- 🎨 Clean UI  
+- 📚 Learning by building  
+
+<br clear="right"/>
+
+  
+
+
+
+
+  
+
+
+<h2 align="center">🔥 Languages & Tools 🔥</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
+</p>
+
+```javascript
+const sakib = {
+  pronouns: "he/him",
+  code: ["JavaScript", "HTML", "CSS"],
+  learning: ["React", "Component Structure"],
+  tools: ["Git", "GitHub", "VS Code"],
+  focus: ["Frontend Development", "Responsive Design"],
+  currentGoal: "Becoming a professional Software Engineer"
+};
