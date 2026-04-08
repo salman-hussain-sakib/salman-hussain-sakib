@@ -12,19 +12,19 @@ Frontend Developer 👨‍💻 | JavaScript & React Learner | Focused on Clean &
 Building modern web applications and improving every day 🚀
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/salmanhussainsakib/">
+  <a href="https://www.linkedin.com/in/salmanhussainsakib/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5&scale=0.85"/>
   </a>&nbsp;
 
-  <a href="mailto:sakibsalmanh@gmail.com">
+  <a href="Gmail:sakibsalmanh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&labelColor=D14836&scale=0.85"/>
   </a>&nbsp;
 
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/salman-hussain-sakib">
     <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white&labelColor=000000&scale=0.85"/>
   </a>&nbsp;
 
-  <a href="https://twitter.com/YOUR_USERNAME">
+  <a href="https://twitter.com/sakibsalmanh">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&labelColor=1DA1F2&scale=0.85"/>
   </a>
 </p>
