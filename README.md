@@ -16,8 +16,8 @@ Building modern web applications and improving every day 🚀
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5&scale=0.85"/>
   </a>&nbsp;
 
-  <a href="Gmail:sakibsalmanh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&labelColor=D14836&scale=0.85"/>
+<a href="mailto:sakibsalmanh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white&scale=0.85"/>
   </a>&nbsp;
 
   <a href="https://github.com/salman-hussain-sakib">
@@ -69,7 +69,14 @@ Building modern web applications and improving every day 🚀
 <h2 align="center">🔥 Languages & Tools 🔥</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html" width="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="40"/>
 </p>
 
 ```javascript
