@@ -31,10 +31,11 @@ Building modern web applications and improving every day 🚀
 
 
 
-#  About Me :
 
 
 
+
+# About Me :
 
 
 
@@ -44,25 +45,31 @@ Building modern web applications and improving every day 🚀
 
 
 
-
-
-
 - 🔭 I’m currently working with JS, React  
 - 🌱 Learning React deeper  
 - 📩 Reach me: sakibsalmanh@gmail.com
 -  🎯 Improving problem-solving skills through real-world projects
---
 
 
-#  My Focus :
+
+
+<br clear="right"/>
+
+
+ #  My Focus : 
 
 - 💻 Modern web apps  
 - 🎨 Clean UI  
 - 📚 Learning by building  
 
-<br clear="right"/>
 
-  
+
+
+
+
+
+
+
 
 
 
