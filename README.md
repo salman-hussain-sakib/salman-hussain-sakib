@@ -12,14 +12,20 @@ Frontend Developer 👨‍💻 | JavaScript & React Learner | Focused on Clean &
 Building modern web applications and improving every day 🚀
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/salmanhussainsakib/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/salmanhussainsakib/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5&scale=0.85"/>
   </a>&nbsp;
+
   <a href="mailto:sakibsalmanh@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="20"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&labelColor=D14836&scale=0.85"/>
   </a>&nbsp;
-  <a href="https://twitter.com/https://x.com/sakibsalmanh" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" width="20"/>
+
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white&labelColor=000000&scale=0.85"/>
+  </a>&nbsp;
+
+  <a href="https://twitter.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&labelColor=1DA1F2&scale=0.85"/>
   </a>
 </p>
 
