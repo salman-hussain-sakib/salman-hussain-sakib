@@ -31,6 +31,10 @@ Building modern web applications and improving every day 🚀
 
 # Responsive Portfolio Website
 ## 🚀 Live Demo : https://portfolio-project-blond-two.vercel.app/
+## 📸 Screenshot :
+ <img width="1905" height="908" alt="image" src="https://github.com/user-attachments/assets/88d881bc-b6ab-4ae0-b7c2-78c789977c28" />
+
+
 ## 📌 About Project
 This is a modern and responsive portfolio website built using HTML and CSS.  
 It is designed to showcase personal projects, skills, and contact information in a clean and user-friendly way.  
@@ -47,8 +51,25 @@ The layout is fully responsive, ensuring a smooth experience across all devices.
 - Organized structure for showcasing projects
 - Contact section included
 
+## 📦 Dependencies
+- No external libraries or frameworks used  
+- Built using pure HTML5 and CSS3
 
+## ⚙️ Run Locally
 
+1. Clone the repository
+
+git clone https://github.com/salman-hussain-sakib/salman-hussain-sakib.git
+
+2. Open the project folder
+
+3. Double click `index.html` file  
+   OR right click → Open with browser
+
+   ## 🔗 Links
+
+- Live Site: https://portfolio-project-blond-two.vercel.app/
+- GitHub Repo: https://github.com/salman-hussain-sakib/salman-hussain-sakib.git
 
 
 
