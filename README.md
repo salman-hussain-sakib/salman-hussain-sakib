@@ -29,6 +29,24 @@ Building modern web applications and improving every day 🚀
   </a>
 </p>
 
+# Responsive Portfolio Website
+## 🚀 Live Demo : https://portfolio-project-blond-two.vercel.app/
+## 📌 About Project
+This is a modern and responsive portfolio website built using HTML and CSS.  
+It is designed to showcase personal projects, skills, and contact information in a clean and user-friendly way.  
+The layout is fully responsive, ensuring a smooth experience across all devices.
+## 🛠 Tech Stack
+- HTML5  
+- CSS3  
+- Responsive Design (Flexbox & Media Queries)
+---
+## ✨ Features
+- Fully responsive design (Mobile, Tablet, Desktop)
+- Clean and modern UI layout
+- Smooth navigation between sections
+- Organized structure for showcasing projects
+- Contact section included
+
 
 
 
