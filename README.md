@@ -59,7 +59,7 @@ The layout is fully responsive, ensuring a smooth experience across all devices.
 
 1. Clone the repository
 
-git clone https://github.com/salman-hussain-sakib/salman-hussain-sakib.git
+git clone https://github.com/salman-hussain-sakib/Portfolio-Project.git
 
 2. Open the project folder
 
