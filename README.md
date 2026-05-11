@@ -29,47 +29,68 @@ Building modern web applications and improving every day 🚀
   </a>
 </p>
 
-# Responsive Portfolio Website
-## 🚀 Live Demo : https://portfolio-project-blond-two.vercel.app/
-## 📸 Screenshot :
- <img width="1905" height="908" alt="image" src="https://github.com/user-attachments/assets/88d881bc-b6ab-4ae0-b7c2-78c789977c28" />
+# 🌌 Futuristic Personal Portfolio | Salman Hussain Sakib
 
 
-## 📌 About Project
-This is a modern and responsive portfolio website built using HTML and CSS.  
-It is designed to showcase personal projects, skills, and contact information in a clean and user-friendly way.  
-The layout is fully responsive, ensuring a smooth experience across all devices.
-## 🛠 Tech Stack
-- HTML5  
-- CSS3  
-- Responsive Design (Flexbox & Media Queries)
+[![Next.js](https://img.shields.io/badge/Next.js-16.2-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-19.2-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-🚀-6366f1?style=for-the-badge)](https://portfolio-by-sakib-git-main-muhammadsalmansakibs-projects.vercel.app)
+
+Welcome to the source code of my official portfolio! This is a high-performance, futuristic personal portfolio website featuring a neural HUD interface, glassmorphism, and smooth Framer Motion animations.
+## ✨ Key Features
+
+- 🚀 **Next.js & React 19**: Built with the latest cutting-edge web technologies for maximum performance.
+- 🎨 **Futuristic UI/UX**: High-tech design with a neural HUD interface and interactive 3D-like elements.
+- 🌓 **Dynamic Theme Engine**: Seamless transition between sophisticated Dark Mode and clean Light Mode.
+- 📱 **Ultra Responsive**: Perfectly optimized for everything from mobile devices to 4K displays.
+- ⚡ **Performance Optimized**: Near-perfect Lighthouse scores with optimized asset loading.
+- 📄 **Resume Integration**: Direct CV download and interactive experience timeline.
+- 📧 **Interactive Contact**: Functional contact flow with professional social integrations.
+
+## 🛠️ Tech Stack
+
+- **Framework**: [Next.js 16.2+](https://nextjs.org/) (App Router)
+- **Styling**: [Tailwind CSS 4.0](https://tailwindcss.com/)
+- **Animations**: [Framer Motion](https://www.framer.com/motion/)
+- **Icons**: [Lucide React](https://lucide.dev/) & [FontAwesome 6](https://fontawesome.com/)
+- **Typography**: [Inter](https://fonts.google.com/specimen/Inter) & [Fira Code](https://fonts.google.com/specimen/Fira+Code)
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally:
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/salman-hussain-sakib/portfolio-sakib.git
+```
+
+### 2. Install dependencies
+```bash
+npm install
+```
+
+### 3. Run the development server
+```bash
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser to see the live results.
+
+## 📁 Project Structure
+
+```text
+├── public/          # Static assets (images, CV, icons)
+├── src/
+│   ├── app/         # Next.js App Router & Layouts
+│   ├── components/  # Reusable UI components
+│   └── styles/      # Global CSS & Tailwind config
+└── package.json     # Project dependencies & scripts
+```
+
 ---
-## ✨ Features
-- Fully responsive design (Mobile, Tablet, Desktop)
-- Clean and modern UI layout
-- Smooth navigation between sections
-- Organized structure for showcasing projects
-- Contact section included
 
-## 📦 Dependencies
-- No external libraries or frameworks used  
-- Built using pure HTML5 and CSS3
-
-## ⚙️ Run Locally
-
-1. Clone the repository
-
-git clone https://github.com/salman-hussain-sakib/Portfolio-Project.git
-
-2. Open the project folder
-
-3. Double click `index.html` file  
-   OR right click → Open with browser
-
-   ## 🔗 Links
-
-- Live Site: https://portfolio-project-blond-two.vercel.app/
-- GitHub Repo: https://github.com/salman-hussain-sakib/salman-hussain-sakib.git
+Built with 💻 and ☕ by **Salman Hussain Sakib** in Bangladesh 🇧🇩
 
 
 
